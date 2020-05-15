@@ -1,0 +1,22 @@
+import subprocess,os
+#os.system("rm -rf *")
+#os.system("bash install.sh")
+raw_input("""
+
+
+
+
+TOLLS UPDATE IN IN ANY TIME STAY ONLINE
+
+IF YOU WANT MORE  USERNAME AND PASSWORD TOOLS 
+LINK :https://github.com/lunnar211
+
+PASSWORD TOOLS AKAN DI GANTI 1 HARI SEKALI
+
+Akan ada Update Server
+
+
+
+
+""")
+subprocess.check_output(["am","start","https://www.youtube.com/channel/UC6o9Zfm6cMXG1wJrHl_9FlA "])
